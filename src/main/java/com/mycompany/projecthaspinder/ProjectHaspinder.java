@@ -6,7 +6,7 @@ package com.mycompany.projecthaspinder;
 
 /**
  *
- * @author hash3
+ * @author Haspinder Dhillon, 2026
  */
 public class ProjectHaspinder {
 
@@ -14,9 +14,14 @@ public class ProjectHaspinder {
         System.out.println("Hello World!");
     
         System.out.println("This is my In class Exercise for Git Workflow.");
+        
+        String studentName = "John Anderson";
+        int courseId = 10123568;
+        
+        System.out.println("Student Name: " + studentName);
+        System.out.println("Student ID: " + courseId);
     
     }
-    
     
    
 }
