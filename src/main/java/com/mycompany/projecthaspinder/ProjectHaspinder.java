@@ -17,9 +17,11 @@ public class ProjectHaspinder {
         
         String studentName = "John Anderson";
         int courseId = 10123568;
+        String courseName = "Software Process Management";
         
         System.out.println("Student Name: " + studentName);
-        System.out.println("Student ID: " + courseId);
+        System.out.println("Course ID: " + courseId);
+        System.out.println(studentName + " is studying in " + courseId +" " + courseName);
     
     }
     
